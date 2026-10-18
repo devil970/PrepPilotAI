@@ -1,0 +1,6 @@
+{
+  "name": "PrepPilot AI – Smart Exam Preparation & Scheduler",
+  "description": "AI-powered exam preparation, smart day-by-day scheduler, MCQ question paper generation, interactive test engine, and performance coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
